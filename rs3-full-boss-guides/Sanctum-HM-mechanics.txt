@@ -178,6 +178,8 @@ Shadowsands → 3 autos + Sanctum Shockwave → Obliterate → 3 Sanctum Hierogl
 ⬥ If <:invokelordofbones:1176968330582700174> is not owned, <:swh:641670143197446182> Nakatra before being sent to the Shadowlands.
     • Build to full off gorillas before exiting Shadowlands.
 ⬥ If weapons are not t100, <:invokelordofbones:1176968330582700174> after it depletes.
+⬥ In order to survive Obliterate you **must** be 12k LP before <:vitality:654618235097972737>
+    • This may be achieved via <:brew:565726489400573962> or <:pantheonaura:982264010126819380>
 
 .
 ### Pre-build
@@ -187,11 +189,9 @@ Shadowsands → 3 autos + Sanctum Shockwave → Obliterate → 3 Sanctum Hierogl
 ### Phase 1
 <:surge:535533810004262912> + <:deathskulls:1159434663903899728> → <:soulsap:1137809140476031057> → <:bloat:1159433682403201044> → <:touchofdeath:1137809175980810380> → <:soulsap:1137809140476031057> → <:omniguard:1138809234922934282> <:spec:537340400273195028> → <:necroauto:1137809137401602109> → <:soulsap:1137809140476031057>
 
-<:reflect:535541258786177064> → <:commandskeleton:1137809194423160883> → <:divert:787904334377648130> + <:veng:543478434953822208> → <:soulsap:1137809140476031057> → <:reprisal:513190159462694912> + <:vitality:654618235097972737> → <:touchofdeath:1137809175980810380> → <:soulsap:1137809140476031057>
+<:reflect:535541258786177064> → <:commandskeleton:1137809194423160883> → <:divert:787904334377648130> + <:veng:543478434953822208> → <:soulsap:1137809140476031057> → <:reprisal:513190159462694912> + <:vitality:654618235097972737> → <:touchofdeath:1137809175980810380> + <:deflectmage:544195487926845462> → <:soulsap:1137809140476031057>
 
-*Notes:
-⬥ Pray <:deflectmage:544195487926845462> for third Obliterate hit.
-⬥ Replace the last <:soulsap:1137809140476031057> with <:necroauto:1137809137401602109> if needing to phase.*
+*Note: replace the last <:soulsap:1137809140476031057> with <:necroauto:1137809137401602109> if needing to phase.*
 
 .
 ### Phase 2
@@ -199,9 +199,7 @@ Shadowsands → 3 autos + Sanctum Shockwave → Obliterate → 3 Sanctum Hierogl
 
 <:bloat:1159433682403201044> → <:necroauto:1137809137401602109> → <:fingerofdeath:1159434801938432010> → <:deathskulls:1159434663903899728> → <:necroauto:1137809137401602109> → <:splitsoul:1137809168368148490> → <:soulsap:1137809140476031057> → <:volleyofsouls:1159435029592686642> → <:deathguard90:1138809243143766118> <:eofspec:1257438999794946099> → <:soulsap:1137809140476031057> → <:touchofdeath:1137809175980810380> → <:necroauto:1137809137401602109> → <:soulsap:1137809140476031057>
 
-*Notes:
-⬥ For Obliterate pray <:deflectmage:544195487926845462> for hits 1 and 3, and flick it off for <:divert:787904334377648130>
-⬥ After <:reflect:535541258786177064> you may stand in Soulfire Wave for extra damage, ~4k damage taken with <:reflect:535541258786177064> and <:deathward:697808774068699286>, ~2k with <:deflectmage:544195487926845462>*
+*Note: after <:reflect:535541258786177064> you may stand in Soulfire Wave for extra damage, ~4k damage taken with <:reflect:535541258786177064> and <:deathward:697808774068699286>, ~2k with <:deflectmage:544195487926845462>*
 
 .
 ### Phase 3
@@ -221,7 +219,7 @@ Shadowsands → 3 autos + Sanctum Shockwave → Obliterate → 3 Sanctum Hierogl
 
 *Notes:
 ⬥ Use abilities as phase 4 begins, can use phase counter as a visual.
-⬥ Can fit in 4 abilities if using <:volleyofsouls:1159435029592686642> 1 tick before phase 4 begins.
+⬥ May fit in 4 abilities if using <:volleyofsouls:1159435029592686642> 1 tick before phase 4 begins.
     • Use wave positions as a visual cue, shown [here](<https://youtu.be/Qm2rvo24uEE>).*
 
 .
@@ -234,11 +232,11 @@ Shadowsands → 3 autos + Sanctum Shockwave → Obliterate → 3 Sanctum Hierogl
 
 .
 **Nakatra**
-<:livingdeath:1159434908486357072> → <:touchofdeath:1137809175980810380> → <:soulsap:1137809140476031057> → <:necroauto:1137809137401602109> → <:necroauto:1137809137401602109> → <:deathskulls:1159434663903899728> → <:splitsoul:1137809168368148490> → <:fingerofdeath:1159434801938432010> → <:bloat:1159433682403201044> → <:touchofdeath:1137809175980810380> → <:fingerofdeath:1159434801938432010> → <:volleyofsouls:1159435029592686642>
+<:livingdeath:1159434908486357072> → <:touchofdeath:1137809175980810380> → <:soulsap:1137809140476031057> → <:necroauto:1137809137401602109> → <:necroauto:1137809137401602109> → <:deathskulls:1159434663903899728> → <:splitsoul:1137809168368148490> → <:fingerofdeath:1159434801938432010> → <:bloat:1159433682403201044> → <:touchofdeath:1137809175980810380> + <:adrenrenewal:736298121704767538> → <:fingerofdeath:1159434801938432010> → <:volleyofsouls:1159435029592686642>
 
 <:deathskulls:1159434663903899728> → <:limitless:641339233638023179> + <:reflect:535541258786177064> → <:necroauto:1137809137401602109> → <:reprisal:513190159462694912> + <:veng:543478434953822208> + <:vitality:654618235097972737> → <:res:535541258844635148> → <:touchofdeath:1137809175980810380> + *release* <:reprisal:513190159462694912> → <:deathguard90:1138809243143766118> <:spec:537340400273195028> → *improv*
 
-*Note: don't <:bloat:1159433682403201044> if fast and <:adrenrenewal:736298121704767538> won't be off CD.*
+*Note: don't <:bloat:1159433682403201044> if fast, as <:adrenrenewal:736298121704767538> won't be off CD for the second <:deathskulls:1159434663903899728>*
 
 .
 ## __Example Kills__
