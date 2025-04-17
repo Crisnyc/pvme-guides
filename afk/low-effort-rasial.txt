@@ -26,19 +26,19 @@
     "fields": [
       {
         "name": "__Items__",
-        "value": "⬥ [Attuned portent of restoration X](https://runescape.wiki/w/Attuned_portent_of_restoration_X) <:attunedportentofrestorationx:1027212535121850400>\n⬥ [Salve amulet (e)](https://runescape.wiki/w/Salve_amulet_(e)) <:salveamulet:797899945730244648>\n⬥ [Ring of Death](https://runescape.wiki/w/Ring_of_death) <:rod:513190159462825984>\n⬥ At least 4 pieces of the [First Necromancer's equipment](https://runescape.wiki/w/First_Necromancer%27s_equipment) <:firstnecrocrown:1206671120623870013>\n⬥ [Zemouregal's Nexus](https://runescape.wiki/w/Zemouregal%27s_nexus) <:zemouregalsnexus:1179716261681307728>\n\u00a0\u00a0\u00a0\u00a0• Deathwarden Nexus may not be as consistent\n⬥ [Scripture of Amascut](https://runescape.wiki/w/Scripture_of_Amascut) <:scriptureofamascut:1266417822188437569>\n⬥ [Igneous Kal-Mor](https://runescape.wiki/w/Igneous_Kal-Mor) <:igneouskalmor:1139200072438005851> or [Igneous Kal-Zuk](https://runescape.wiki/w/Igneous_Kal-Zuk) <:igneouskalzuk:902209626479685734>"
+        "value": "⬥ At least 4 pieces of the [First Necromancer's equipment](https://runescape.wiki/w/First_Necromancer%27s_equipment) <:firstnecrocrown:1206671120623870013>\n⬥ [Zemouregal's Nexus](https://runescape.wiki/w/Zemouregal%27s_nexus) <:zemouregalsnexus:1179716261681307728>\n\u00a0\u00a0\u00a0\u00a0• Deathwarden Nexus may not be as consistent"
       },
       {
       "name": "__Perks__",
-      "value": "⬥ Deathwarden robe top (T90) <:wardentop90:1142770709530161192>\n\u00a0\u00a0\u00a0\u00a0• [Crystal Shield 4](https://runescape.wiki/w/Crystal_Shield_(perk)) <:crystalshield4:921410343606034443>\n\u00a0\u00a0\u00a0\u00a0• [Lucky 6](https://runescape.wiki/w/Lucky) <:lucky6:890542428287795221>\n\u00a0\u00a0\u00a0\u00a0• [Undead Slayer](https://runescape.wiki/w/Undead_Slayer) <:undeadslayerperk:689502804720615441> Can also combo Lucky 6 or Bulwark 4\n⬥ Robe bottom of the First Necromancer <:firstnecrorobebottom:1206664822654115911>\n\u00a0\u00a0\u00a0\u00a0• [Bulwark 4](https://runescape.wiki/w/Bulwark) <:bulwark4:1242028174062391347>\n\u00a0\u00a0\u00a0\u00a0• [Absorbative 4](https://runescape.wiki/w/Absorbative) <:absorbative4:890542428556230666>"
+      "value": "⬥ [Robe Top of the First Necromancer](https://runescape.wiki/w/Robe_top_of_the_First_Necromancer)<:firstnecrorobetop:1206664820682657822>\n\u00a0\u00a0\u00a0\u00a0• [Crystal Shield 4](https://runescape.wiki/w/Crystal_Shield_(perk)) <:crystalshield4:921410343606034443>\n\u00a0\u00a0\u00a0\u00a0• [Lucky 6](https://runescape.wiki/w/Lucky) <:lucky6:890542428287795221> + [Undead Slayer](https://runescape.wiki/w/Undead_Slayer) <:undeadslayerperk:689502804720615441>\n⬥ [Cryptbloom Bottoms](https://runescape.wiki/w/Cryptbloom_bottoms)<:cryptbloombottoms:1334336167432159283>\n\u00a0\u00a0\u00a0\u00a0• [Bulwark 4](https://runescape.wiki/w/Bulwark) <:bulwark4:1242028174062391347>\n\u00a0\u00a0\u00a0\u00a0• [Absorbative 4](https://runescape.wiki/w/Absorbative) <:absorbative4:890542428556230666>"
       },
       {
         "name": "__Abilities__",
-        "value": "⬥ [Darkness](https://runescape.wiki/w/Darkness) <:darkness:1137809209782698024>\n⬥ [Conjure Undead Army](https://runescape.wiki/w/Conjure_Undead_Army) <:conjurearmy:1166094935066423348>\n\u00a0\u00a0\u00a0\u00a0• Have all 4 conjures selected\n⬥ [Greater Bone Shield](https://runescape.wiki/w/Greater_Bone_Shield) <:greaterboneshield:1137809118283976814>"
+        "value": "⬥ [Animate Dead](https://runescape.wiki/w/Animate_Dead) <:animatedead:856635090453135382>\n⬥ [Conjure Undead Army](https://runescape.wiki/w/Conjure_Undead_Army) <:conjurearmy:1166094935066423348>\n\u00a0\u00a0\u00a0\u00a0• Have all 4 conjures selected\n⬥ [Greater Bone Shield](https://runescape.wiki/w/Greater_Bone_Shield) <:greaterboneshield:1137809118283976814>"
       },
       {
         "name": "__Other__",
-        "value": "⬥ [Tier 100 weapons](https://runescape.wiki/w/Shard_of_Genesis_Essence) <:shardofgenesisessence:1266418218264694954>\n\u00a0\u00a0\u00a0\u00a0• May be less consistent without\n⬥ [Equilibrium](https://runescape.wiki/w/Equilibrium_aura) <:equilibriumaura:1233722649834684416>\n⬥ Pray <:soulsplit:615613924506599497> and <:ruination:1137940996391452772>\n\u00a0\u00a0\u00a0\u00a0• <:sorrow:1137941003895046284> may not be as consistent\n⬥ [Blood reaver](https://runescape.wiki/w/Blood_reaver_(familiar)) <:reaverpouch:839903693837959228> with <:reaverscroll:1022562484378419284>\n\u00a0\u00a0\u00a0\u00a0• <:reaverscroll:1022562484378419284> autofire set to 6\n⬥ [Bonfire Boost](https://runescape.wiki/w/Bonfire_Boost_Active) <:firemaking:1011705727041163396> and [Ogre flask (thermal)](https://runescape.wiki/w/Ogre_flask_(thermal)) <:thermalflask:689530593796423724>\n\u00a0\u00a0\u00a0\u00a0• Wear HP boosting equipment"
+        "value": "⬥ [Equilibrium](https://runescape.wiki/w/Equilibrium_aura) <:equilibriumaura:1233722649834684416>\n⬥ Pray <:soulsplit:615613924506599497> and <:ruination:1137940996391452772>\n\u00a0\u00a0\u00a0\u00a0• <:sorrow:1137941003895046284> may not be as consistent\n⬥ [Hellhound](https://runescape.wiki/w/Hellhound_(familiar)) <:hellhoundpouch:921410226475925514>\n⬥ [Bonfire Boost](https://runescape.wiki/w/Bonfire_Boost_Active) <:firemaking:1011705727041163396> and [Ogre flask (thermal)](https://runescape.wiki/w/Ogre_flask_(thermal)) <:thermalflask:689530593796423724>\n\u00a0\u00a0\u00a0\u00a0• Wear HP boosting equipment\n⬥ Teleporting to [War's Retreat](https://runescape.wiki/w/War%27s_Retreat) after every kill to replenish prayer, adrenaline, familiar and player health, and reset cooldowns."
       }
     ]
   }
@@ -52,12 +52,12 @@
   "embed": {
     "color": 39423,
     "image": {
-            "url": "https://img.pvme.io/images/WC2AXzj7mB.png"
+            "url": "https://img.pvme.io/images/2XvMNMm0k5.png"
         },
     "fields":[
         {
             "name":"__Preset Suggestions__",
-            "value":"⬥ [Necromancy preset](https://pvme.io/preset-maker/#/YwIpAP1Dn4JCvAIdSTmb) <:necromancy:1148995625896120460>"
+            "value":"⬥ [Necromancy preset](https://pvme.github.io/preset-maker/#/jClCJKFUX9BFzMpOMARy) <:necromancy:1148995625896120460>"
         }
     ]
   }
@@ -66,19 +66,32 @@
 .
 ### Action Bar
 .
-.img:https://img.pvme.io/images/Y5qNxgEFD4.png
+.img:https://img.pvme.io/images/iHFynKkc42.png
 
 .
 ### The fight
 .tag:fight
-⬥ This method requires teleporting to War's Retreat after every kill to replenish prayer, adrenaline, familiar and player health, and reset cooldowns.
+⬥ Rejoin instance → <:surge:535533810004262912> or <:dive:1049378668197195808> to the starting position → <:prismofrestoration:938475261366784070> → <:invokedeath:1137809121983336548> → use <:vulnbomb:655341074235129858> at the start of the fight.
+    • In rare cases, you may die
 
-⬥ Rejoin instance → <:surge:535533810004262912> or <:dive:1049378668197195808> to the starting position → cast <:invokedeath:1137809121983336548> and use <:vulnbomb:655341074235129858> at the start of the fight.
+.
+## Alternate Method
+Notes:
+⬥ Uses more inputs by user, and safer, however more prone to user error
+⬥ Will be less consistent without using <:shardofgenesisessence:1266418218264694954>
+.
+### Action Bar
+.img:https://img.pvme.io/images/3RKq7SchbR.png
+.
+### The fight
+.
+Rejoin instance → <:prep:535541258546970624> → <:freedom:535541258240786434> → <:invokedeath:1137809121983336548> → (tc) + <:conjurearmy:1166094935066423348> + <:vulnbomb:655341074235129858> + <:prismofrestoration:938475261366784070> (dont need to prism instantly)
 
 .
 ### Example Kills
 .tag:example
-⬥ [Example kills](https://www.youtube.com/watch?v=AtVt62ZDLAU)
+⬥ [Standard](<https://youtu.be/Tsnj1OUxUu8>)
+⬥ [Alternate](<https://youtu.be/VIB-XcWK8k0>)
 .
 
 .

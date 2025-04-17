@@ -57,16 +57,19 @@ It is unknown if the method works with Ganodermic armour <:ganohelm:100394780775
 {
   "embed": {
     "color": 39423,
+    "image": {
+            "url": "https://img.pvme.io/images/4hRjlwRlIC.png"
+      },
     "fields":[
-    	{
-    		"name":"__Magic AFK Nodon Guard__",
-    		"value":"⬥ [Preset breakdown](https://pvme.io/preset-maker/#/SugYp7of9AkMugcesLsW)",
-    		"inline":true
-    	}
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [AFK Magic](https://pvme.io/preset-maker/#/SugYp7of9AkMugcesLsW)"
+      }
     ]
   }
 }
 .embed:json
+
 .
 ### Action Bar
 .
@@ -85,17 +88,18 @@ It is unknown if the method works with Ganodermic armour <:ganohelm:100394780775
 {
   "embed": {
     "color": 39423,
+    "image": {
+            "url": "https://img.pvme.io/images/vVZUadzfHg.png"
+      },
     "fields":[
-    	{
-    		"name":"__Necro AFK Nodon Guard__",
-    		"value":"⬥ [Preset breakdown](https://pvme.io/preset-maker/#/Newi4CsWkg8gujcLAWhC)",
-    		"inline":true
-    	}
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [AFK Necromancy](https://pvme.io/preset-maker/#/OWbxBrju9Dkl1q7Nx9J1)"
+      }
     ]
   }
 }
 .embed:json
-
 .
 ### Ability Bar
 .img:https://img.pvme.io/images/dnZ0ISPMc1.png
@@ -108,8 +112,8 @@ It is unknown if the method works with Ganodermic armour <:ganohelm:100394780775
 .tag:stats_artificer
 ⬥ <:combat:797896050370281523> XP per kill: 4424 (1459.9 <:Constitution:689509250887712902>)
 ⬥ <:slayer:797896049548066857> XP per kill: 1877
-⬥ Optimal kills per hour: 410 <:magic:689504724159823906>, 500 <:necromancy:1148995625896120460>
-⬥ Optimal <:slayer:797896049548066857> XP per hour: ~769k <:magic:689504724159823906>, ~940k <:necromancy:1148995625896120460>
+⬥ Optimal kills per hour: 410 <:magic:689504724159823906>, 520 <:necromancy:1148995625896120460>
+⬥ Optimal <:slayer:797896049548066857> XP per hour: ~769k <:magic:689504724159823906>, ~955k <:necromancy:1148995625896120460>
 .
 ### Where to Stand
 .img:https://img.pvme.io/images/VXuDd4MT4q.png
@@ -131,19 +135,19 @@ It is unknown if the method works with Ganodermic armour <:ganohelm:100394780775
 .
 {
   "embed": {
-    "title": "",
     "color": 39423,
-    "fields": [
-      {
-        "name": "__Magic AFK Nodon Artificer__",
-        "value": "⬥ [AFK Magic](https://pvme.github.io/preset-maker/#/ecBD8U3C9dTLGuc9uy1Z)",
-        "inline": true
+    "image": {
+            "url": "https://img.pvme.io/images/igb3kdRqDl.png"
+      },
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [AFK Magic](https://pvme.github.io/preset-maker/#/K4RhZpTZVHa0TRM0e4Uy)"
       }
     ]
   }
 }
 .embed:json
-.
 
 .
 ### Method - AFK Necro
@@ -158,12 +162,14 @@ It is unknown if the method works with Ganodermic armour <:ganohelm:100394780775
 {
   "embed": {
     "color": 39423,
+    "image": {
+            "url": "https://img.pvme.io/images/FfIX695Gyv.png"
+      },
     "fields":[
-    	{
-    		"name":"__Necro AFK Nodon Artificer__",
-    		"value":"⬥ [Preset breakdown](https://pvme.io/preset-maker/#/jszVw35T10CjrjhgX6pR)",
-    		"inline":true
-    	}
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [AFK Necromancy](https://pvme.io/preset-maker/#/3M9OxsGpxtvYxpFDOTYz)"
+      }
     ]
   }
 }
@@ -171,7 +177,7 @@ It is unknown if the method works with Ganodermic armour <:ganohelm:100394780775
 
 .
 ### Ability Bar
-.img:https://img.pvme.io/images/dnZ0ISPMc1.png
+.img:https://img.pvme.io/images/WyazWF0FpG.png
 
 .
 .tag:videoexamples
@@ -187,7 +193,7 @@ It is unknown if the method works with Ganodermic armour <:ganohelm:100394780775
       },
       {
         "name": "__AFK Nodon Artificers__",
-        "value": "⬥ [Necromancy <:necromancy:1148995625896120460>](<https://www.youtube.com/watch?v=HbtWLQiwkQw>)\n⬥ [Magic <:magic:689504724159823906>](<https://youtu.be/soLRw1dhJC8>)"
+        "value": "⬥ [Necromancy <:necromancy:1148995625896120460>](<https://www.youtube.com/watch?v=iY7oub1M1cQ>)\n⬥ [Magic <:magic:689504724159823906>](<https://youtu.be/soLRw1dhJC8>)"
       }
     ]
   }

@@ -4,7 +4,7 @@ The goal of the PvME Mastery System is to allow players to set goals and track p
 
 .
 ### Mastery Roles Explained
-The PvME mastery system is formed around five distinct ranks. Each rank is meant to be representative of a particular 'snapshot' in a player's journey.
+The PvME mastery system is formed around four distinct ranks. Each rank is meant to be representative of a particular 'snapshot' in a player's journey.
 
 ⬥ **Initiate**
     • Making the transition from a learner to the start of mastery; the primary goal would be to keep building familiarity with the encounter so as to continue climbing through the ranks.
@@ -165,7 +165,7 @@ In addition to all of the listed mastery objectives, we provide special roles fo
     "fields": [
       {
         "name": "** **",
-        "value": "<@&1016477572965609552>\n\u00a0\u00a0\u00a0\u00a0• ≤ 4:00 [demo](https://youtu.be/q03YWNivpfU)\n<@&930880180635979796>\n\u00a0\u00a0\u00a0\u00a0• ≤ 3:40 [demo](https://youtu.be/TTivsGdI_Pw?si=JNaFaQQK0SqNPHOz)\n<@&915705556600225833>\n\u00a0\u00a0\u00a0\u00a0• B2B ≤ 3:10 Style camp [demo](https://youtu.be/Ny0afRs3Kcw?si=JkOiCTlvVh4skJJ2), or\n\u00a0\u00a0\u00a0\u00a0• B2B ≤ 2:50 Hybrid [demo](https://youtu.be/1Awm4bUHWvk)\n<@&932293281444945970>\n\u00a0\u00a0\u00a0\u00a0• ≤ 2:40 Style camp [demo](https://www.youtube.com/watch?v=Ere2klQ55oI), or\n\u00a0\u00a0\u00a0\u00a0• ≤ 2:20 Hybrid [demo](https://www.youtube.com/watch?v=qaY5u61ckKE)"
+        "value": "<@&1016477572965609552>\n\u00a0\u00a0\u00a0\u00a0• ≤ 4:00 [demo](https://youtu.be/q03YWNivpfU)\n<@&930880180635979796>\n\u00a0\u00a0\u00a0\u00a0• ≤ 3:40 [demo](https://youtu.be/TTivsGdI_Pw?si=JNaFaQQK0SqNPHOz)\n<@&915705556600225833>\n\u00a0\u00a0\u00a0\u00a0• B2B ≤ 2:50 [demo](https://youtu.be/1Awm4bUHWvk)\n<@&932293281444945970>\n\u00a0\u00a0\u00a0\u00a0• ≤ 2:05 [demo](https://www.youtube.com/watch?v=yFu4JmFDCD4)"
       }
     ]
   }
@@ -187,7 +187,7 @@ In addition to all of the listed mastery objectives, we provide special roles fo
     "fields": [
       {
         "name": "** **",
-        "value": "<@&1016477537838309436>\n\u00a0\u00a0\u00a0\u00a0• ≤ 2:00 [demo](https://www.youtube.com/watch?v=CggAtXNtRxc)\n<@&566770740335083543>\n\u00a0\u00a0\u00a0\u00a0• ≤ 1:40 [demo](https://www.youtube.com/watch?v=IgKF8C_1RPI) \n<@&536754824830517268>\n\u00a0\u00a0\u00a0\u00a0• B2B ≤ 1:20 [demo](https://www.youtube.com/watch?v=TI60dDW2f1Y)\n<@&1014575136952832162>\n\u00a0\u00a0\u00a0\u00a0• ≤ 1:10 [demo](https://www.youtube.com/watch?v=NlNIGRFnSAs)\n\u00a0\u00a0\u00a0\u00a0• Dummy not allowed"
+        "value": "<@&1016477537838309436>\n\u00a0\u00a0\u00a0\u00a0• ≤ 2:00 [demo](https://www.youtube.com/watch?v=CggAtXNtRxc)\n<@&566770740335083543>\n\u00a0\u00a0\u00a0\u00a0• ≤ 1:40 [demo](https://www.youtube.com/watch?v=IgKF8C_1RPI) \n<@&536754824830517268>\n\u00a0\u00a0\u00a0\u00a0• B2B ≤ 1:20 [demo](https://www.youtube.com/watch?v=TI60dDW2f1Y)\n<@&1014575136952832162>\n\u00a0\u00a0\u00a0\u00a0• ≤ 1:08 [demo](https://www.youtube.com/watch?v=NlNIGRFnSAs)\n\u00a0\u00a0\u00a0\u00a0• Dummy not allowed"
       }
     ]
   }
@@ -210,7 +210,7 @@ In addition to all of the listed mastery objectives, we provide special roles fo
     "fields": [
       {
         "name": "** **",
-        "value": "<@&1016477365880238170>\n\u00a0\u00a0\u00a0\u00a0• ≤ 2:00 7-man, or\n\u00a0\u00a0\u00a0\u00a0• ≤ 3:30 4-man,[demo](https://www.youtube.com/watch?v=Xx0neHJ65Tc) or\n\u00a0\u00a0\u00a0\u00a0• 7-man tag in AoD 7-10 Discord\n<@&566767711884017686>\n\u00a0\u00a0\u00a0\u00a0• ≤ 1:45 7-man [demo](https://youtu.be/RjyrEy7dGO8), or\n\u00a0\u00a0\u00a0\u00a0• ≤ 2:50 4-man, or\n\u00a0\u00a0\u00a0\u00a0• Member of Nex AoD FC\n<@&536406816980992032>\n\u00a0\u00a0\u00a0\u00a0• B2B ≤ 1:20 7-man [demo](https://www.youtube.com/watch?v=Ku31BdwYJjE&ab_channel=Philelelele), or\n\u00a0\u00a0\u00a0\u00a0• B2B ≤ 2:20 4-man, or\n\u00a0\u00a0\u00a0\u00a0• B2B ≤ 4:30 Duo\n<@&1016508733712515143>\n\u00a0\u00a0\u00a0\u00a0• ≤ 1:15 7-man, or\n\u00a0\u00a0\u00a0\u00a0• extreme tag in Nex Aod FC, or\n\u00a0\u00a0\u00a0\u00a0• ≤ 1:50 4-man [demo](https://www.youtube.com/watch?v=Dao0soPXOG4&ab_channel=RocketRs), or\n\u00a0\u00a0\u00a0\u00a0• ≤ 4:00 Duo [demo](https://youtu.be/zXJhBXJkRJY?si=UDtw5slq4UOd4nfC)"
+        "value": "<@&1016477365880238170>\n\u00a0\u00a0\u00a0\u00a0• ≤ 2:00 7-man, or\n\u00a0\u00a0\u00a0\u00a0• ≤ 3:30 4-man,[demo](https://www.youtube.com/watch?v=Xx0neHJ65Tc) or\n\u00a0\u00a0\u00a0\u00a0• 7-man tag in AoD 7-10 Discord\n<@&566767711884017686>\n\u00a0\u00a0\u00a0\u00a0• ≤ 1:45 7-man [demo](https://youtu.be/RjyrEy7dGO8), or\n\u00a0\u00a0\u00a0\u00a0• ≤ 2:50 4-man, or\n\u00a0\u00a0\u00a0\u00a0• Member of Nex AoD FC\n<@&536406816980992032>\n\u00a0\u00a0\u00a0\u00a0• B2B ≤ 1:20 7-man [demo](https://www.youtube.com/watch?v=Ku31BdwYJjE&ab_channel=Philelelele), or\n\u00a0\u00a0\u00a0\u00a0• B2B ≤ 2:20 4-man, or\n\u00a0\u00a0\u00a0\u00a0• B2B ≤ 4:30 Duo\n<@&1016508733712515143>\n\u00a0\u00a0\u00a0\u00a0• ≤ 1:06 7-man, or\n\u00a0\u00a0\u00a0\u00a0• extreme tag in Nex Aod FC, or\n\u00a0\u00a0\u00a0\u00a0• ≤ 1:50 4-man [demo](https://www.youtube.com/watch?v=Dao0soPXOG4&ab_channel=RocketRs), or\n\u00a0\u00a0\u00a0\u00a0• ≤ 4:00 Duo [demo](https://youtu.be/zXJhBXJkRJY?si=UDtw5slq4UOd4nfC)"
       }
     ]
   }
@@ -249,16 +249,12 @@ In addition to all of the listed mastery objectives, we provide special roles fo
       "url": "https://img.pvme.io/images/Rs5fBEO7xu.png"
     },
     "footer": {
-      "text": "Notes:\n\u00a0\u00a0\u00a0\u00a0• Note 1: HM = hard mode\n\u00a0\u00a0\u00a0\u00a0• Note 2: Does not need to be the same run\n\u00a0\u00a0\u00a0\u00a0• Note 3: No building stacks on pillars or pre-deathmarking pillars at Kezalam\n\u00a0\u00a0\u00a0\u00a0• Note 4: Adept also requires vods"
+      "text": "Notes:\n\u00a0\u00a0\u00a0\u00a0• Note 1: HM = hard mode\n\u00a0\u00a0\u00a0\u00a0• Note 2: Does not need to be the same run\n\u00a0\u00a0\u00a0\u00a0• Note 3: No building stacks on pillars or pre-deathmarking pillars at Kezalam"
     },
     "fields": [
       {
         "name": "** **",
-        "value": "<@&1274898395206651904>\n\u00a0\u00a0\u00a0\u00a0• ≤ 1:50 Vermyx, and\n\u00a0\u00a0\u00a0\u00a0• ≤ 3:00 Kezalam, and\n\u00a0\u00a0\u00a0\u00a0• ≤ 4:00 Nakatra\n<@&1274898520188391505> \n\u00a0\u00a0\u00a0\u00a0• ≤ 1:40 Vermyx, and\n\u00a0\u00a0\u00a0\u00a0• ≤ 2:40 Kezalam, and\n\u00a0\u00a0\u00a0\u00a0• ≤ 3:30 Nakatra, or \n\u00a0\u00a0\u00a0\u00a0•<:range:580168050121113623> ≤ 1:30 Vermyx, and\n\u00a0\u00a0\u00a0\u00a0•<:range:580168050121113623> ≤ 2:20 Kezalam, and\n\u00a0\u00a0\u00a0\u00a0•<:range:580168050121113623> ≤ 3:10 Nakatra"
-		},
- 		{
-	"name": "** **",
-		"value":"\n<@&1274898553789222922>\n\u00a0\u00a0\u00a0\u00a0• ≤ 1:30 Vermyx, and\n\u00a0\u00a0\u00a0\u00a0• ≤ 2:25 Kezalam, and\n\u00a0\u00a0\u00a0\u00a0• ≤ 3:15 Nakatra [demo]( https://www.youtube.com/watch?v=ImcYF-yAcLw), or\n\u00a0\u00a0\u00a0\u00a0•<:range:580168050121113623> ≤ 1:20 Vermyx, and\n\u00a0\u00a0\u00a0\u00a0•<:range:580168050121113623> ≤ 1:45 Kezalam, and\n\u00a0\u00a0\u00a0\u00a0•<:range:580168050121113623> ≤ 2:45 Nakatra [demo](https://www.youtube.com/watch?v=4oPXiZCv0og)\n<@&1274898577876848701>\n\u00a0\u00a0\u00a0\u00a0• ≤ 1:25 Vermyx, and\n\u00a0\u00a0\u00a0\u00a0• ≤ 2:05 Kezalam, and\n\u00a0\u00a0\u00a0\u00a0• ≤ 2:35 Nakatra [demo](https://youtu.be/8gcSk6BeG0g), or\n\u00a0\u00a0\u00a0\u00a0•<:range:580168050121113623> ≤ 1:15 Vermyx, and\n\u00a0\u00a0\u00a0\u00a0•<:range:580168050121113623> ≤ 1:30 Kezalam, and\n\u00a0\u00a0\u00a0\u00a0•<:range:580168050121113623> ≤ 2:20 Nakatra [demo]( https://www.youtube.com/watch?v=isF-iryM1bs)"
+        "value": "<@&1274898395206651904>\n\u00a0\u00a0\u00a0\u00a0• ≤ 1:50 Vermyx, and\n\u00a0\u00a0\u00a0\u00a0• ≤ 3:00 Kezalam, and\n\u00a0\u00a0\u00a0\u00a0• ≤ 4:00 Nakatra\n<@&1274898520188391505> \n\u00a0\u00a0\u00a0\u00a0• ≤ 1:30 Vermyx, and\n\u00a0\u00a0\u00a0\u00a0• ≤ 2:20 Kezalam, and\n\u00a0\u00a0\u00a0\u00a0• ≤ 3:10 Nakatra\n<@&1274898553789222922>\n\u00a0\u00a0\u00a0\u00a0• ≤ 1:25 Vermyx, and\n\u00a0\u00a0\u00a0\u00a0• ≤ 2:00 Kezalam, and\n\u00a0\u00a0\u00a0\u00a0• ≤ 2:45 Nakatra [demo](https://www.youtube.com/watch?v=4oPXiZCv0og)\n<@&1274898577876848701>\n\u00a0\u00a0\u00a0\u00a0• ≤ 1:11 Vermyx, and\n\u00a0\u00a0\u00a0\u00a0• ≤ 1:35 Kezalam, and\n\u00a0\u00a0\u00a0\u00a0• ≤ 2:20 Nakatra [demo]( https://www.youtube.com/watch?v=isF-iryM1bs)"
       }
     ]
   }

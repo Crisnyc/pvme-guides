@@ -10,6 +10,7 @@ Zemouregal & Vorkath is a boss encounter consisting of two bosses; Zemouregal an
 ### Applicable Damage boosts for Vorkath
 ⬥ <:undeadslayer:641339922019516416> and <:undeadslayerperk:689502804720615441> work (<:dragonslayer:641339921814126594> and <:dragonslayerperk:689502927731163170> do **not** at time of writing)
 ⬥ <:slayerhelm:798285340460449792>Slayer helm boost and <:genocidal:689503091539705870> work while on a dragons cluster, blue dragons or undead cluster slayer task.
+    • <:undeadslayerperk:689502804720615441> + <:genocidal:689503091539705870> can be combo'd on the same gizmo
 ⬥ <:salveamulet:797899945730244648> Salve amulet works
 ⬥ <:jasdragonbanearrow:971025697042755584> Jas dragonbane arrows work
 
@@ -130,12 +131,12 @@ Fly → 1 auto (+ Bone Spikes) → Dragonfire Breath → 4 autos → Zonal Ice B
     "title": "",
     "color": 39423,
     "image": {
-            "url": "https://img.pvme.io/images/OGPK482tY3.png"
+            "url": "https://img.pvme.io/images/3RSTzmLdYP.png"
         },
     "fields": [
       {
         "name": "__Preset Suggestions__",
-        "value": "⬥ [Normal mode Vorkath Skip preset](https://pvme.github.io/preset-maker/#/01F38EVcpQ4b90P5DUP0)\n⬥ [Hardmode Vorkath Preset](https://pvme.github.io/preset-maker/#/glhjDmKm4LFZ0hUzwgNJ)",
+        "value": "⬥ [Normal mode Vorkath Skip preset](https://pvme.io/preset-maker/#/8boQLxDki0lwAHlarYDh)\n⬥ [Hardmode Vorkath Preset](https://pvme.io/preset-maker/#/Lx1Dk4ZXTWpGd9p80d63)",
         "inline": true
       }
     ]

@@ -26,7 +26,7 @@
         "fields": [
       {
         "name": "__Items__",
-        "value": "⬥ [Abyssal Scourge](<https://runescape.wiki/w/Abyssal_Scourge>) & [Dark shard of leng](<https://runescape.wiki/w/Dark_Sliver_of_Leng>) <:abyssalscourge:947871842469834832> <:lengoh:883134308070604870>\n⬥ [Vamp scrim](https://runescape.wiki/w/Scrimshaw_of_Vampyrism) <:vampscrim:513201294262009874> or [Superior vamp scrim](https://runescape.wiki/w/Superior_Scrimshaw_of_Vampyrism) <:vampscrim:513201294262009874>\n⬥ [Essence of Finality](<https://runescape.wiki/w/Eof>) <:eof:787526151978614824>\n⬥ 4 pieces of [Vestments](https://runescape.wiki/w/Vestments_of_havoc_armour) <:vestmentsofhavochood:994189297659940904>\n⬥ [Cinderbane Gloves](https://runescape.wiki/w/Cinderbane_gloves) <:Cinderbanes:513190158355660812>"
+        "value": "⬥ [Abyssal Scourge](<https://runescape.wiki/w/Abyssal_Scourge>) & [Dark Sliver of Leng](<https://runescape.wiki/w/Dark_Sliver_of_Leng>) <:abyssalscourge:947871842469834832> <:lengoh:883134308070604870>\n⬥ [Vamp scrim](https://runescape.wiki/w/Scrimshaw_of_Vampyrism) <:vampscrim:513201294262009874> or [Superior vamp scrim](https://runescape.wiki/w/Superior_Scrimshaw_of_Vampyrism) <:vampscrim:513201294262009874>\n⬥ [Essence of Finality](<https://runescape.wiki/w/Eof>) <:eof:787526151978614824>\n⬥ 4 pieces of [Vestments](https://runescape.wiki/w/Vestments_of_havoc_armour) <:vestmentsofhavochood:994189297659940904>\n⬥ [Cinderbane Gloves](https://runescape.wiki/w/Cinderbane_gloves) <:Cinderbanes:513190158355660812>"
         },
      {
         "name": "__Other__",
@@ -44,12 +44,12 @@
   "embed": {
     "color": 39423,
     "image": {
-            "url": "https://img.pvme.io/images/K5kGdFPJl7.png"
+            "url": "https://img.pvme.io/images/K9w3TPdxq8.png"
         },
     "fields":[
         {
             "name":"__Preset Suggestions__",
-            "value":"⬥ [Melee preset](https://pvme.github.io/preset-maker/#/0zm6K7NL5wh38OM8R2ns) <:melee:1096130867279171706>"
+            "value":"⬥ [Melee preset](https://pvme.io/preset-maker/#/ohcNoShMHZ2g5YGEixmL) <:melee:1096130867279171706>"
         }
     ]
   }
